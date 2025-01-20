@@ -1,2 +1,2 @@
 # calculator
-A Simple Calculator Website
+A Simple Calculator Website.
